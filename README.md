@@ -19,13 +19,13 @@ But there is actual way to get Office for free and suprisingly legitimate copy, 
 1. First of all, download Office Deployment tool from Microsoft:
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
-#2. Extracting office installation folder 
+##2. Extracting office installation folder 
 Run the file, accept eula, create new folder called "Office" and extract it here
 </div>
   <img src="https://media.discordapp.net/attachments/841271628381683753/1095387688393248929/image.png" width="306" height="366"/>
 </div>
 
-#3. Generating Configuration.xml
+##3. Generating Configuration.xml
  Next go to https://config.office.com/deploymentsettings
 </div>
   <img src="https://media.discordapp.net/attachments/841271628381683753/1095388192619892827/image.png?width=571&height=468" width="571" height="468">
