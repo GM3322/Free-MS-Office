@@ -44,8 +44,7 @@ Download this to your office folder
 Open Office folder and delete any other  .xml files than yours
 <img src="https://media.discordapp.net/attachments/841271628381683753/1095389477108715741/image.png" width="643" height="278">
 
-Next go to my reposity and download Office-installer.bat, put it to the office folder. 
-(its just a simple script that makes the installation easier 😊)
+Next go to my reposity and download Office-installer.bat, put it to the office folder. its just a simple script that makes the installation easier 😊
 Also by sure to run the file as Administrator!
 <img src="https://user-images.githubusercontent.com/84188600/231530757-2a0f4e2c-12d2-49bc-b3b4-ea1663fe1f73.png">
 
