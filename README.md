@@ -35,3 +35,4 @@ Here you can chnage wich products do you want to install, and if you want you ca
 <img src="https://user-images.githubusercontent.com/84188600/231523742-2e4fe5c0-fef3-4760-b162-4bfda12dd155.png" width="571" height="468">
 When are you done, simply click export
 <img src="https://media.discordapp.net/attachments/841271628381683753/1095388899452391604/image.png?width=540&height=468" width="540" height="468">
+<img src="https://media.discordapp.net/attachments/841271628381683753/1095389042478157935/image.png?width=572&height=468" width="540" height="468">
