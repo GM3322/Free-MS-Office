@@ -21,5 +21,5 @@ https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
 2. Run the file, accept eula, create new folder called "Office" and extract it here
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/841271628381683753/1095387688393248929/image.png" width="600" height="300"/>
+  <img src="https://media.discordapp.net/attachments/841271628381683753/1095387688393248929/image.png" width="309" height="366"/>
 </div>
