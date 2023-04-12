@@ -36,3 +36,4 @@ Here you can chnage wich products do you want to install, and if you want you ca
 When are you done, simply click export
 <img src="https://media.discordapp.net/attachments/841271628381683753/1095388899452391604/image.png?width=540&height=468" width="540" height="468">
 <img src="https://media.discordapp.net/attachments/841271628381683753/1095389042478157935/image.png?width=572&height=468" width="540" height="468">
+Download this to your office folder
