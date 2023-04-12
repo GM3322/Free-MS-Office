@@ -28,8 +28,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=49117
 <div align="center">
   <img src="https://media.discordapp.net/attachments/841271628381683753/1095388192619892827/image.png?width=571&height=468" width="571" height="468">
 </div>
-Here you can chnage wich products do you want to install
 <div align="center">
   <img src="https://user-images.githubusercontent.com/84188600/231521903-6f5b9ab0-7c13-4075-a2f3-49bc3b3807b2.png" width="571" height="468">
 </div>
-
+Here you can chnage wich products do you want to install
