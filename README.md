@@ -48,4 +48,8 @@ Next go to my reposity and download Office-installer.bat, put it to the office f
 Also by sure to run the file as Administrator!
 <img src="https://user-images.githubusercontent.com/84188600/231530757-2a0f4e2c-12d2-49bc-b3b4-ea1663fe1f73.png">
 
+After a 5-10 minutes (depening on your internet) the office installation will start
+<img src="https://user-images.githubusercontent.com/84188600/231531485-0a93e5d4-9fc0-4708-b96e-ec120d755005.png">
+
+
 
