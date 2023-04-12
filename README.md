@@ -51,5 +51,6 @@ Also by sure to run the file as Administrator!
 After a 5-10 minutes (depening on your internet) the office installation will start
 <img src="https://user-images.githubusercontent.com/84188600/231531485-0a93e5d4-9fc0-4708-b96e-ec120d755005.png">
 
-
-
+## 5. You are DONE :)
+After this window will pop-up you are ready to go, now you can safely cancel the cmd window.
+<img src="https://user-images.githubusercontent.com/84188600/231532169-d71d3cbf-1967-4730-a15a-860c4fd37a5d.png">
