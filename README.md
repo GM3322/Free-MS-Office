@@ -16,7 +16,7 @@ But there is actual way to get Office for free and suprisingly legitimate copy, 
 (but it may work in older versions of windows)
 
 ## Install Instructions
-1. First of all, download Office Deployment tool from Microsoft:
+## 1. First of all, download Office Deployment tool from Microsoft:
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
 ## 2. Extracting office installation folder 
