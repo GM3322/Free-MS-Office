@@ -45,7 +45,7 @@ Open Office folder and delete any other  .xml files than yours
 <img src="https://media.discordapp.net/attachments/841271628381683753/1095389477108715741/image.png" width="643" height="278">
 
 Next go to my reposity and download Office-installer.bat, put it to the office folder. its just a simple script that makes the installation easier 😊
-<img src="https://user-images.githubusercontent.com/84188600/231530757-2a0f4e2c-12d2-49bc-b3b4-ea1663fe1f73.png">
+<img src="![image](https://github.com/GM3322/Free-MS-Office/assets/84188600/194204d7-fb01-4b5c-be6e-0aeedd88abd2)">
 
 After a 5-10 minutes (depening on your internet) the office installation will start
 <img src="https://user-images.githubusercontent.com/84188600/231531485-0a93e5d4-9fc0-4708-b96e-ec120d755005.png">
